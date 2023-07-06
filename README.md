@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean!</h1>
+<h1>Hi, I'm Sean! I am a tech enthusiast with a passion for cyber security and a deep appreciation for the entertainment that technology provides. My focus on organization and attention to detail have equipped me with the skills necessary to protect both the technology and the content it delivers. I am committed to staying up-to-date with the latest developments in the field and contributing to innovative projects that promote security and privacy in the digital age, while also preserving the entertainment and enjoyment that technology provides.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
